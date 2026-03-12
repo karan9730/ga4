@@ -7,7 +7,7 @@ import glob
 from pathlib import Path
 
 # --- SET YOUR KAGGLE PATHS ---
-INPUT_BASE = '/kaggle/input/competitions/jan-2026-dl-gen-ai-project/messy_mashup'
+INPUT_BASE = '/kaggle/input/jan-2026-dl-gen-ai-project/messy_mashup'
 WORKING_BASE = '/kaggle/working'
 
 STEMS_PATH = os.path.join(INPUT_BASE, 'genres_stems')
